@@ -1,0 +1,14 @@
+.container{
+    border-radius:16px
+}
+.img-fluidrounded-3{
+    border-radius:16px
+}
+.c-ask-to-login-box__icon:before {
+    content: "\E086\00FE0E";
+    font-size: 60px;
+    color: #4caf50;
+
+.col{
+    text-align: center;
+}
